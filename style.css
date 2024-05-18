@@ -1,0 +1,16 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+p {
+    /* border: 1px solid black; */
+    border-radius: 5px;
+    background-color: aqua;
+    color: blueviolet;
+    /* height: 200px; */
+    max-width: 992px;
+    text-align: center;
+     padding: 100px;
+     font-size: 40px;
+     margin: 20px;
+}
